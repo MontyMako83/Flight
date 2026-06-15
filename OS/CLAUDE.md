@@ -17,6 +17,8 @@ OS/
 ├── CLAUDE.md          ← this file (master instructions)
 ├── context/           ← second brain (about-me, voice-dna, working-style)
 └── active/            ← all generated output (research, drafts, exports)
+    └── tools/         ← standalone tools and web apps
+        └── jarvis-console.html  ← JARVIS FSD chat console (open in browser)
 ```
 
 Update this map as the workspace grows — add new folders and descriptions so future sessions can navigate without exploring.
